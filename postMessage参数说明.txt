@@ -1,0 +1,4 @@
+type		string 值 'friend'、'group'、'clear'
+key 		string 固定值 'score'
+opendId 	string 登录者的openId
+shareTicket 	string 分享成功后返回小程序时返回的票据
